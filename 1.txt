@@ -5,10 +5,7 @@
 ajfklsdjfldsa
 
 
-
-
-This will be a merge.
-
+This will be a merge conflict.
 
 
 This is a bug fix.

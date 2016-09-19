@@ -5,3 +5,8 @@ documentation update.
 
 And here is something else.
 
+---
+
+Okay, let's test your branches.
+https://github.com/ITAfrique/branching_test/branches/yours
+
